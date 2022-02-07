@@ -7,3 +7,8 @@ APRIL KEY, ERIC EAST, MARKUS SHIPLEY, MARY OLAITAN
 
 
 picture found in Travel and Leisure 2019
+
+
+
+ADDITIONAL NOTES - final notebooks to be graded all have FINAL_ in the path name. 
+All images are saved to the files folder for easy viewing. 
