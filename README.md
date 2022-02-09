@@ -12,4 +12,5 @@ picture found in Travel and Leisure 2019
 
 ADDITIONAL NOTES - final notebooks to be graded all have FINAL_ in the path name. 
 All images are saved to the files folder for easy viewing. 
-Presentation Slide Deck Link : 
+
+Presentation Slide Deck Link : https://docs.google.com/presentation/d/1i_yzQRoSs722q4u_36yFrNm4-lDyv2Jbb3zRRZb3Pc4/edit#slide=id.p
